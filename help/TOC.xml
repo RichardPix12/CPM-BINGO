@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+
+<toc version="1.0">
+  
+  <tocitem text="EII Bingo" target="introduccion" />
+  <tocitem text="Antes de jugar" >
+      <tocitem text="Número Mágico" target="numeromagico" />
+  </tocitem>
+  <tocitem text="Durante el Juego" >
+      <tocitem text="Sacar Bola" target="sacarbola" />
+      <tocitem text="Cantar Linea" target="cantarlinea" />
+      <tocitem text="Cantar Bingo" target="cantarbingo" />
+  </tocitem>
+  <tocitem text="Premios" >
+      <tocitem text="Elegir Premio" target="elegirpremio" />
+  </tocitem>
+
+
+</toc>
